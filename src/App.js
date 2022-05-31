@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import PriceCard from './PriceCard';
 import { priceData } from './Data';
