@@ -93,9 +93,9 @@ export default function PriceCard(props) {
           </li>
         </ul>
         <div className='d-grid'>
-          <a  className='btn btn-primary btn-block text-uppercase'>
+          <div className='btn btn-primary btn-block text-uppercase'>
             Button
-          </a>
+          </div>
         </div>
       </div>
     </div>
